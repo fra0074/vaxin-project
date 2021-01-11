@@ -1,0 +1,29 @@
+body {
+  display: flex;
+}
+
+#map {
+  width: 75vw;
+  height: 100vh;
+
+}
+
+#menu {
+  display: flex;
+  flex-direction: column; 
+  width: 25vw;
+  height: 100vh;
+  background-color: white;
+  justify-content: center;
+}
+
+h1 {
+  font-family: "Karla";
+  font-size: 3em;
+}
+
+.flag {
+  height: 25px;
+  width: 50px;
+  /* margin: 10px 10px 10px 10px; */
+}
